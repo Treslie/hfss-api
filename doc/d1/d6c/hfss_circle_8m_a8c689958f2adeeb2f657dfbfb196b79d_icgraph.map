@@ -1,0 +1,5 @@
+<map id="hfssCircle" name="hfssCircle">
+<area shape="rect" id="node2" href="$d8/d33/hfss_circular_port_8m.html#a193a6ff52166610ebb9c8c6c07a4bfe6" title="Creates the VB Script necessary to create a circular wave port. This function generates BOTH the circ..." alt="" coords="151,5,266,32"/>
+<area shape="rect" id="node3" href="$de/d90/hfss_polygon_8m.html#acfbc5f3a80563b535e160c51b6286ce0" title="Create a closed polygon object in HFSS. This function also provides an option to punch a bunch of (ci..." alt="" coords="162,56,255,83"/>
+<area shape="rect" id="node4" href="$d9/dc0/hfss_uncovered_cylinder_8m.html#ab768ada75721cb959226737df1e31e5f" title="hfssUncoveredCylinder" alt="" coords="132,107,285,133"/>
+</map>

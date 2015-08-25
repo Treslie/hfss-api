@@ -1,0 +1,5 @@
+<map id="hfssUncoveredCylinder" name="hfssUncoveredCylinder">
+<area shape="rect" id="node2" href="$d1/d6c/hfss_circle_8m.html#a8c689958f2adeeb2f657dfbfb196b79d" title="Creates the VB Script necessary to create a circle in HFSS. " alt="" coords="215,5,293,32"/>
+<area shape="rect" id="node3" href="$dc/dde/hfss_connect_8m.html#a711483958c682a427902bc3c49ab1802" title="Creates VB Script necessary to connect two HFSS objects using a surface. " alt="" coords="207,56,301,83"/>
+<area shape="rect" id="node4" href="$d3/d1c/hfss_rename_8m.html#af14b0150e8dcd6315cd05afc7dbca135" title="Creates the VB Script necessary to rename a HFSS Object. " alt="" coords="207,107,301,133"/>
+</map>

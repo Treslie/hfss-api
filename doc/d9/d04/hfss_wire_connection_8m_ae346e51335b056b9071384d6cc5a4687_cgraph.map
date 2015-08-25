@@ -1,0 +1,5 @@
+<map id="hfssWireConnection" name="hfssWireConnection">
+<area shape="rect" id="node2" href="$d2/dda/hfss_cylinder_8m.html#a7ccbaf8152de5a688ffa5b4fb4368945" title="Creates the VB script necessary to model a cylinder in HFSS. " alt="" coords="192,5,285,32"/>
+<area shape="rect" id="node3" href="$d0/dfa/hfss_sphere_8m.html#a2a34766f6d3a74c501d35788ae96e3c2" title="Creates the VB Script necessary to create a sphere in HFSS. " alt="" coords="195,56,282,83"/>
+<area shape="rect" id="node4" href="$db/da3/hfss_unite_8m.html#a7e94f617082cc08e72f84eb2e3d28aab" title="Creates the VB Script necessary for unite a given set of objects already present in the HFSS 3D Model..." alt="" coords="201,107,277,133"/>
+</map>

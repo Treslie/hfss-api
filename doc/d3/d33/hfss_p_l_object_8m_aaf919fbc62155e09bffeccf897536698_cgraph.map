@@ -1,0 +1,6 @@
+<map id="hfssPLObject" name="hfssPLObject">
+<area shape="rect" id="node2" href="$dc/dde/hfss_connect_8m.html#a711483958c682a427902bc3c49ab1802" title="Creates VB Script necessary to connect two HFSS objects using a surface. " alt="" coords="153,5,248,32"/>
+<area shape="rect" id="node3" href="$d2/dda/hfss_cylinder_8m.html#a7ccbaf8152de5a688ffa5b4fb4368945" title="Creates the VB script necessary to model a cylinder in HFSS. " alt="" coords="154,56,247,83"/>
+<area shape="rect" id="node4" href="$d8/d55/hfss_polyline_8m.html#addba9d454300cdc15741d26a030a8f78" title="Creates VBscript for generating a polyline in HFSS. " alt="" coords="155,107,247,133"/>
+<area shape="rect" id="node5" href="$dd/d5c/hfss_subtract_8m.html#a5db8205de3828c13891a65ddb6d8f6b1" title="Creates the necessary VB script to subtract a set of tool parts from a set of blank parts..." alt="" coords="153,157,248,184"/>
+</map>

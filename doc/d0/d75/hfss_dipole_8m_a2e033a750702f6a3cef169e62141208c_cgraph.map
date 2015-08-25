@@ -1,0 +1,6 @@
+<map id="hfssDipole" name="hfssDipole">
+<area shape="rect" id="node2" href="$db/d10/hfss_box_8m.html#a3d8f9ee3f5844e5246466d883e11115d" title="Creates a box in HFSS. " alt="" coords="153,56,223,83"/>
+<area shape="rect" id="node3" href="$d2/dda/hfss_cylinder_8m.html#a7ccbaf8152de5a688ffa5b4fb4368945" title="Creates the VB script necessary to model a cylinder in HFSS. " alt="" coords="289,5,382,32"/>
+<area shape="rect" id="node5" href="$d9/dd6/hfss_rectangle_8m.html#a9a96ce92325a9d0a8c1e65fbdaecad20" title="Create the VB Script necessary to construct a rectangle using the HFSS 3D Modeler. " alt="" coords="136,107,240,133"/>
+<area shape="rect" id="node4" href="$dd/d5c/hfss_subtract_8m.html#a5db8205de3828c13891a65ddb6d8f6b1" title="Creates the necessary VB script to subtract a set of tool parts from a set of blank parts..." alt="" coords="288,56,383,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hfssSubtract" name="hfssSubtract">
+<area shape="rect" id="node2" href="$db/d10/hfss_box_8m.html#a3d8f9ee3f5844e5246466d883e11115d" title="Creates a box in HFSS. " alt="" coords="179,5,248,32"/>
+<area shape="rect" id="node4" href="$d5/df9/hfss_hollow_cylinder_8m.html#aa888c98d6b3a55f110a3605d19a3ee25" title="Creates VB Script necessary to generate a hollow cylinder in HFSS. " alt="" coords="148,56,279,83"/>
+<area shape="rect" id="node6" href="$d3/d33/hfss_p_l_object_8m.html#aaf919fbc62155e09bffeccf897536698" title="Creates the VB Script necessary to construct a 3D object based on a Polygon in two dimensions..." alt="" coords="163,107,263,133"/>
+<area shape="rect" id="node7" href="$de/d90/hfss_polygon_8m.html#acfbc5f3a80563b535e160c51b6286ce0" title="Create a closed polygon object in HFSS. This function also provides an option to punch a bunch of (ci..." alt="" coords="167,157,260,184"/>
+<area shape="rect" id="node3" href="$d0/d75/hfss_dipole_8m.html#a2e033a750702f6a3cef169e62141208c" title="hfssDipole" alt="" coords="347,5,429,32"/>
+<area shape="rect" id="node5" href="$d4/d36/hfss_coaxial_cable_8m.html#aecf2013725c7d8cb1a7f9f92de6d0a0c" title="Creates a Coaxial Cable. " alt="" coords="327,56,449,83"/>
+</map>
